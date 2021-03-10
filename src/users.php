@@ -89,7 +89,10 @@
                     <div class="status-dot"><i class="fas fa-circle"></i></div>
                 </a>
             </div>
-            </section>
+        </section>
     </div>
+
+    <!-- js -->
+    <script src="js/users-search.js"></script>
 </body>
 </html>
